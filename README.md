@@ -24,7 +24,7 @@ Conviene matizar la idea de que el aristotelismo fuera un "rasgo común" de la E
 
 De ahí se sigue que el debilitamiento no es una simple "pérdida de Aristóteles", sino la erosión de la cadena de mediaciones (familia, parroquia, escuela, gremios, asociaciones vecinales). 
 
-### 2.1. De Roma al siglo XII: poca ley, mucha doctrina 
+### 2.1. De Roma al siglo XII: poca tradición escrita 
 
 Entre el final del Imperio romano y la escolástica hay un largo tramo en el que apenas circula Aristóteles. Eso podría parecer una ruptura en la continuidad, pero conviene separar dos tipos de herencia: la de los *textos*, que es débil, y la de las *prácticas*, que es fuerte. Esa diferencia refuerza la tesis del ensayo: lo que se transmitió fueron mediaciones, no doctrina.
 
