@@ -150,7 +150,7 @@ El caso español encaja mejor con la figura de la *prueba de estrés* que con la
 
 **Primera salida: distinguir lo fino de lo grueso.** Los cinco principios que propongo como mínimo común (dignidad de toda persona, igualdad ante la ley, libertad de conciencia y expresión, solidaridad intergeneracional, participación pública) son una moral *fina*: la que MacIntyre diría que no basta. Habermas la defendió como "patriotismo constitucional", lealtad a principios y no a una etnia o religión.[^17] La objeción comunitarista es que tal lealtad es demasiado delgada para motivar. Mi respuesta: los principios finos deben **anclarse en prácticas gruesas** que *se aprendan*: ahí vuelve la hexis.
 
-**Segunda salida: qué prácticas.** Lista de candidatas (la lista concreta es tuya; dejo las que mejor se defienden en la literatura): 
+**Segunda salida: qué prácticas.** Lista de candidatas: 
 
 - educación cívica real en la escuela (historia común, deliberación, instituciones);
 - dominio de la(s) lengua(s) común(es) como puerta de acceso a lo público;
