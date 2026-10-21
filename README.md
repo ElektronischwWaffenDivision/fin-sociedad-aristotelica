@@ -56,7 +56,7 @@ Las cajas se convirtieron en instrumentos de poder local hasta que se politizaro
 
 ## 3. La ruptura
 
-La ruptura no es un hecho único y tiene varias cronologías posibles. MacIntyre la sitúa en la Ilustración y en el fracaso de su proyecto de fundar la moral sin telos;[^2] otros la adelantan al nominalismo tardomedieval y a la Reforma, que vaciaron de realidad los "fines naturales" (Gillespie),[^3] o la retrasan a la modernidad secular como experiencia social (Taylor).[^4] Elijo aquí la versión de MacIntyre como hilo conductor, sabiendo que hay competidores. [TÚ DECIDES si prefieres presentarlas como alternativas o escoger una.]
+La ruptura no es un hecho único y tiene varias cronologías posibles. MacIntyre la sitúa en la Ilustración y en el fracaso de su proyecto de fundar la moral sin telos;[^2] otros la adelantan al nominalismo tardomedieval y a la Reforma, que vaciaron de realidad los "fines naturales" (Gillespie),[^3] o la retrasan a la modernidad secular como experiencia social (Taylor).[^4]
 
 Dentro de la Ilustración conviene distinguir. Hobbes es el más claramente antiaristotélico: niega expresamente que el hombre sea animal político por naturaleza.[^5] Locke funda la sociedad en el consentimiento. Kant, en cambio, no es un contractualista en sentido estricto: el contrato es para él una idea regulativa, y su ética del deber es una moral con contenido propio. Lo común a los tres es que la legitimidad se busca en procedimientos y derechos, no en un fin compartido.
 
