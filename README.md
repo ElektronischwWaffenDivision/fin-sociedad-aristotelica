@@ -16,7 +16,7 @@ Hay que reconocer desde el principio que Aristóteles es un punto de partida y n
 
 Estás páginas no sostienen que los europeos "fueran aristotélicos". Se usa la visión aristotélica como *criterio de análisis*: una sociedad cohesiva sería aquella donde hay (a) alguna idea compartida de vida buena, (b) instituciones que forman el carácter y (c) prácticas que encarnan ambas. Posteriormente se medirá la erosión social contra ese criterio.
 
-## 2. Aristóteles y Europa: una herencia con mediadores
+## 2. Aristóteles y Europa: una tradición con mediadores
 
 La recepción de Aristóteles no fue directa. Llegó mediada por el cristianismo y la escolástica, sobre todo por Tomás de Aquino, y la mediación cambió el contenido: la polis se hizo civitas cristiana y la vida buena se subordinó a la salvación del alma.
 
