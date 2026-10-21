@@ -164,9 +164,9 @@ El caso español encaja mejor con la figura de la *prueba de estrés* que con la
 
 ## 8. Conclusión
 
-Dos extremos que evitar: cerrar la sociedad y la indiferencia. No son los únicos polos, pero son los más tentadores: el primero ofrece cohesión a costa de justicia; el segundo, libertad a costa de comunidad. La respuesta no es el repliegue identitario ni el relativismo absoluto, sino recuperar la transmisión cultural *también hacia dentro*: reconstruir las mediaciones (familia, escuela, asociaciones, rituales públicos, narrativas compartidas).
+Una decisión fácil sería cerrar las fronteras e implementar una feroz política de remigeación; rendirse a la indiferencia. No son las únicas actividades, pero son los más tentadoras: la primero ofrece cohesión a costa de justicia; la segundo, libertad a costa de comunidad. La respuesta no es el repliegue identitario ni el relativismo absoluto, sino recuperar la transmisión cultural *también hacia dentro*: reconstruir las mediaciones (familia, escuela, asociaciones, rituales públicos, narrativas compartidas).
 
-A la **respuesta a la pregunta inicial:** ¿Puede recuperarse la intuición aristotélica de la vida buena compartida sin sus jerarquías excluyentes? Sí, a condición de tomar de Aristóteles la forma (telos compartido, carácter por hábito, comunidad como formación) y descartar la premisa de la inferioridad natural. Si el carácter se aprende, la comunidad ética se puede abrir.
+como **respuesta a la pregunta inicial:** ¿Puede recuperarse la intuición aristotélica de la vida buena compartida sin sus jerarquías excluyentes? Sí, a condición de tomar de Aristóteles la forma (telos compartido, carácter por hábito, comunidad como formación) y descartar la premisa de la inferioridad natural. Si el carácter se aprende, la comunidad ética se puede abrir.
 
 No se trata de volver a Aristóteles, sino de recuperar su pregunta: ¿qué tipo de comunidad queremos ser? Una comunidad definida solo por el intercambio o la seguridad está vacía; una definida por la exclusión es injusta. La tarea es imaginar y construir una comunidad a la vez abierta y cohesionada, plural y solidaria. Esa es la apuesta del ensayo, y su dificultad.
 
