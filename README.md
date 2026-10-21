@@ -2,6 +2,9 @@
   <img src="/ewd.png" alt="">
 </p>
 
+### 𝕰𝖑𝖊𝖐𝖙𝖗𝖔𝖓𝖎𝖘𝖈𝖍𝖊 𝖂𝖆𝖋𝖋𝖊𝖓 𝕯𝖎𝖛𝖎𝖘𝖎𝖔𝖓
+
+
 # Últimas reminiscencias de la visión aristotélica en la sociedad occidental 
 
 ## 1. El horizonte aristotélico
@@ -166,8 +169,6 @@ A la **respuesta a la pregunta inicial:** ¿Puede recuperarse la intuición aris
 
 No se trata de volver a Aristóteles, sino de recuperar su pregunta: ¿qué tipo de comunidad queremos ser? Una comunidad definida solo por el intercambio o la seguridad está vacía; una definida por la exclusión es injusta. La tarea es imaginar y construir una comunidad a la vez abierta y cohesionada, plural y solidaria. Esa es la apuesta del ensayo, y su dificultad.
 
-
-## Notas
 
 [^1]: Aristóteles, *Política* I.5 (esclavitud natural) y *Ética a Nicómaco* II.1 (virtud por hábito). La tensión entre ambos pasajes es un lugar común de la crítica.
 [^2]: Alasdair MacIntyre, *Tras la virtud* (*After Virtue*, 1981).
