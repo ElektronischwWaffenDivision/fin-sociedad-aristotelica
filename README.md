@@ -71,15 +71,6 @@ Dentro de la Ilustración conviene distinguir. Hobbes es el más claramente anti
 
 MacIntyre diagnostica el resultado como la pérdida de un telos común: sin concepción compartida de la vida buena, la moral se fragmenta en emotivismo y procedimentalismo.
 
-### Cuatro diagnosticadores
-
-Ninguno de los siguientes cuatro autores *causó* la erosión: son meros diagnosticadores. Su papel en el argumento es mostrar las posiciones que se hacen pensables una vez desaparecido el telos compartido. Cómo llegaron (o no) a la vida cotidiana es cuestión de la sección siguiente.
-
-- **Schopenhauer** diagnostica el sufrimiento inherente a la existencia y la insaciabilidad de la voluntad, pero apenas hace política; su ética de la compasión se queda en lo individual.
-- **Stirner** disuelve Estado, sociedad y hasta la humanidad como concepto. Su egoísmo es una negación sin construcción.
-- **Nietzsche** critica la moral gregaria, pero no necesariamente la comunidad: imagina una aristocracia del espíritu, jerárquica y selectiva, no la disolución de todo vínculo.
-- **Jünger** recorre el trayecto del Arbeiter (el trabajador movilizado por la técnica que termina por retirase del mundo sin destruirlo): el agotamiento de las grandes narrativas políticas y la búsqueda de una libertad interior.
-
 ## 4. Tocqueville, Tönnies y Bauman: la bisagra
 
 Estos autores no son "complementos" sino el *puente* entre las secciones 3 y 5, porque ellos sí hablan de cómo se disuelven los vínculos en la vida social, no solo en las ideas. Forman además una secuencia: Tocqueville anticipa el repliegue individualista, Tönnies describe el paso de la comunidad a la sociedad contractual y Bauman muestra que esa sociedad también pierde su solidez.
