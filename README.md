@@ -4,7 +4,7 @@
 </p>
 <br><br>
 
-# Últimas reminiscencias de la visión aristotélica en la sociedad occidental 
+# El final de la visión aristotélica en la sociedad occidental 
 
 ## 1. El horizonte aristotélico
 
