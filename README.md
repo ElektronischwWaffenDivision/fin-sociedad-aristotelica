@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="/ewd.png" alt=""><br>
-𝕰𝖑𝖊𝖐𝖙𝖗𝖔𝖓𝖎𝖘𝖈𝖍𝖊 𝖂𝖆𝖋𝖋𝖊𝖓 𝕯𝖎𝖛𝖎𝖘𝖎𝖔𝖓
+  <img src="/ewd.png" alt="">
+  <br>
+  <bigg>𝕰𝖑𝖊𝖐𝖙𝖗𝖔𝖓𝖎𝖘𝖈𝖍𝖊 𝖂𝖆𝖋𝖋𝖊𝖓 𝕯𝖎𝖛𝖎𝖘𝖎𝖔𝖓</bigg>
+  <br><br>
 </p>
-<br><br>
+
+
 
 # El final de la visión aristotélica en la sociedad occidental 
 
-## 1. El horizonte aristotélico
+## 1. Horizonte
 
 La filosofía práctica de Aristóteles es el horizonte originario desde el cual se puede pensar la cohesión social en Occidente. En *Política* III.9, la polis no es una mera asociación económica o defensiva, sino una comunidad orientada a la vida buena (εὖ ζῆν). Su telos es la realización de la naturaleza humana, que solo se alcanza en la vida política.
 
@@ -24,7 +27,7 @@ Conviene matizar la idea de que el aristotelismo fuera un "rasgo común" de la E
 
 De ahí se sigue que el debilitamiento no es una simple "pérdida de Aristóteles", sino la erosión de la cadena de mediaciones (familia, parroquia, escuela, gremios, asociaciones vecinales). 
 
-### 2.1. De Roma al siglo XII: poca tradición escrita 
+### 2.1. De Roma al siglo XII
 
 Entre el final del Imperio romano y la escolástica hay un largo tramo en el que apenas circula Aristóteles. Eso podría parecer una ruptura en la continuidad, pero conviene separar dos tipos de herencia: la de los *textos*, que es débil, y la de las *prácticas*, que es fuerte. Esa diferencia refuerza la tesis del ensayo: lo que se transmitió fueron mediaciones, no doctrina.
 
@@ -46,7 +49,7 @@ La mediación cristiana no es una sola. Dos de sus figuras mayores ofrecen lectu
 
 **Agustín.** Para Agustín un pueblo es una multitud de seres racionales unida por la concordia sobre aquello que ama.[^24] La consecuencia es que la calidad de una comunidad depende de *qué* ama en común. Además, tras la caída, la política no *realiza* la naturaleza humana (como en Aristóteles) sino que contiene y remedia sus daños: la paz terrena es un bien real, pero limitado. Su aportación al ensayo es doble: formula pronto el problema de la sección 7 (¿qué ama en común una sociedad hoy?) y recuerda que la cohesión no es solo cuestión de procedimientos, sino de sujetos de amor compartidos.
 
-**Tomás: Aristóteles bautizado.** Tomás conserva el núcleo aristotélico: el ser humano es animal social y político, la ley se ordena al bien común y la hexis pasa a la doctrina de los hábitos y las virtudes.[^25] Pero lo transforma: el fin último es sobrenatural, y añade la dignidad de toda persona como imagen de Dios, que no existe en Aristóteles. Esto conecta con la pregunta inicial del ensayo: la mediación cristiana pudo abrir lo que la polis cerraba. Matiz honesto: la Iglesia también convivió durante siglos con jerarquías y esclavitud, de modo que esa apertura fue potencial más que efectiva.
+**Tomás: un Aristóteles bautizado.** Tomás conserva el núcleo aristotélico: el ser humano es animal social y político, la ley se ordena al bien común y la hexis pasa a la doctrina de los hábitos y las virtudes.[^25] Pero lo transforma: el fin último es sobrenatural, y añade la dignidad de toda persona como imagen de Dios, que no existe en Aristóteles. Esto conecta con la pregunta inicial del ensayo: la mediación cristiana pudo abrir lo que la polis cerraba. Matiz honesto: la Iglesia también convivió durante siglos con jerarquías y esclavitud, de modo que esa apertura fue potencial más que efectiva.
 
 **Contraste y uso.** Agustín desconfía de lo político y de la capacidad de la naturaleza humana; Tomás confía más en ella. Para mi argumento se complementan: Tomás aporta la *forma*, y Agustín la *pregunta por el contenido*. 
 
