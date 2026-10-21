@@ -103,7 +103,7 @@ Estos cuatro procesos no necesitan a los filósofos para operar. Lo que las idea
 
 - **Educación.** La escolarización obligatoria y el cambio de currículos desplazaron la formación del carácter por la transmisión de conocimientos técnicos. La escuela pasó de iniciar en una tradición a preparar para el trabajo.
 - **Secularización.** La pérdida de autoridad de las iglesias como socializadoras primarias dejó un vacío que ni el Estado ni el mercado han llenado, y debilitó los rituales colectivos.
-- **Consumo.** El consumo de masas reorientó las identidades hacia el estilo de vida: se pertenece por lo que se puede adquirir y exhibir. ▸ Es la dimensión que Bauman describe como identidad-proyecto (sección 4).
+- **Consumo.** El consumo de masas reorientó las identidades hacia el estilo de vida: se pertenece por lo que se puede adquirir y exhibir. Es la dimensión que Bauman describe como identidad-proyecto (sección 4).
 - **Urbanización.** La migración del campo a la ciudad y la suburbanización rompieron las redes de vecindad y parentesco. El anonimato urbano da libertad, pero también soledad.
 
 La erosión del capital social no es exclusiva de sociedades diversas. Putnam documentó el declive de la participación asociativa en EE. UU. desde los años sesenta,[^12] y la soledad y el debilitamiento de redes son fenómenos documentados en sociedades europeas relativamente homogéneas. 
@@ -118,7 +118,7 @@ La tesis predice que, en igualdad de condiciones, las sociedades con institucion
 - Dinesen y colaboradores, en una revisión con metaanálisis, encuentran una asociación negativa entre diversidad étnica y confianza social, más marcada en el ámbito del vecindario, con diferencias según contexto.[^14] El propio Putnam, que encontró el efecto en el corto plazo, defendía que a largo plazo las sociedades construyen identidades más amplias que lo compensan.[^15]
 - **En sentido contrario:** la teoría del contacto (Allport; Pettigrew y Tropp) muestra que el contacto intergrupal en condiciones favorables (objetivos comunes, estatus igual, apoyo institucional) *reduce* el prejuicio.[^16] Esto refuerza, paradójicamente, la tesis del ensayo: lo que importa son las condiciones institucionales del contacto, es decir, las mediaciones.
 
-La conclusión no es que la inmigración sea intrínsecamente destructiva ni inocua, sino que **una sociedad que ya no transmite una cultura cívica compartida tiene más dificultades para integrar a quien llega**. La integración requiere un nosotros al que integrarse; si ese nosotros se ha vuelto difuso, el proceso es problemático. ▸ Y el coste no lo pagan solo los recién llegados: también lo pagan los residentes de larga data, que perciben la pérdida de referencias sin que nadie las nombre.
+La conclusión no es que la inmigración sea intrínsecamente destructiva ni inocua, sino que **una sociedad que ya no transmite una cultura cívica compartida tiene más dificultades para integrar a quien llega**. La integración requiere un nosotros al que integrarse; si ese nosotros se ha vuelto difuso, el proceso es problemático. Y el coste no lo pagan solo los recién llegados: también lo pagan los residentes autóctonos, que perciben la pérdida de referencias sin que nadie las nombre.
 
 ### 6.1. El caso español: dos procesos simultáneos
 
