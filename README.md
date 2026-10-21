@@ -1,6 +1,5 @@
 <p align="center">
   <img src="/ewd.png" alt="">
-<br><br><br>
 𝕰𝖑𝖊𝖐𝖙𝖗𝖔𝖓𝖎𝖘𝖈𝖍𝖊 𝖂𝖆𝖋𝖋𝖊𝖓 𝕯𝖎𝖛𝖎𝖘𝖎𝖔𝖓
 </p>
 
