@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/ewd.png" alt="">
+</p>
+
 # Últimas reminiscencias de la visión aristotélica en la sociedad occidental 
 
 ## 1. El horizonte aristotélico
